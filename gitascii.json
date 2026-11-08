@@ -1,4 +1,5 @@
 {
+  "username": "electrichobo",
   "widgets": [
     {
       "widgetId": "custom-image",
@@ -74,7 +75,7 @@
       },
       "config": {
         "accentColor": "#ffb800",
-        "hideBorder": false,
+        "hideBorder": true,
         "hideDecorations": false,
         "showTitle": false,
         "animationType": "scan-lines",
@@ -304,5 +305,10 @@
     "templateStyle": "native_advanced",
     "transparentBackground": false
   },
-  "templateId": "native_advanced"
+  "templateId": "native_advanced",
+  "profileSlug": "default",
+  "metadata": {
+    "revision": "rev_1794118731201_mpsjm",
+    "updatedAt": "2026-11-08T06:18:53.684Z"
+  }
 }
